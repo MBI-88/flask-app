@@ -1,0 +1,26 @@
+1648528503062	geckodriver	INFO	Listening on 127.0.0.1:59105
+1648528506137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59106" "-no-remote" "-profile" "C:\\Users\\MBI\\AppData\\Local\\Temp\\rust_mozprofile6Fd8MK"
+*** You are running in headless mode.
+1648528506310	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MBI\\AppData\\Local\\Temp\\rust_mozprofile6Fd8MK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59106/devtools/browser/1c84eea9-df35-4a3a-919f-43a7ab786c06
+1648528507009	Marionette	INFO	Listening on port 59111
+1648528507167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1648528519895	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1648528816632	geckodriver	INFO	Listening on 127.0.0.1:59273
+1648528819687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59274" "-no-remote" "-profile" "C:\\Users\\MBI\\AppData\\Local\\Temp\\rust_mozprofileFnGcuZ"
+*** You are running in headless mode.
+1648528819856	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MBI\\AppData\\Local\\Temp\\rust_mozprofileFnGcuZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59274/devtools/browser/7d4223b4-05b5-4485-9e68-0d50d1a9019e
+1648528820694	Marionette	INFO	Listening on port 59280
+1648528820723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1648528833496	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
